@@ -1,2 +1,1 @@
-master branch
-I wrote on branch b
+I wrote on master branch
